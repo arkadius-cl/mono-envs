@@ -1,6 +1,6 @@
 {
   "name": "@micro-devs/mono-envs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zentrale Verwaltung von Umgebungsvariablen in Monorepos (pnpm/turbo)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
